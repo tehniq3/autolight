@@ -15,7 +15,7 @@ int lumina = 2;
 int lumina0 = 3;
 
 unsigned long tpinitial = 0;
-unsigned long tpled = 2000; //600000;
+unsigned long tpled = 600000;
 
 void setup() {
 //  Serial.begin(9600);
