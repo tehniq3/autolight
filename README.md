@@ -1,2 +1,2 @@
 # autolight
-use photorestistor or switch for compensate sun lights
+use photoresistor or switch for compensate sun lights
